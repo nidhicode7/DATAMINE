@@ -37,13 +37,8 @@ If you have any suggestions, improvements, or cool coding tips, feel free to for
    git clone https://github.com/your-username/datamine.git
    ```
 2. Explore the code snippets, projects, and notes inside.
-3. Feel free to contribute by adding new insights or improving existing ones.
 
-## 🔧 **Technologies Used**
 
-* **Programming Languages:** Python, JavaScript, Java, C++, etc.
-* **Tools:** VSCode, Git, GitHub, etc.
-* **Frameworks:** Flask, Django, React, etc.
 
 ## 📝 **License**
 
