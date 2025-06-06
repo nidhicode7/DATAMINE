@@ -1,5 +1,4 @@
 
-
 ### 1. **Purpose**
 
 * `return`: Sends a value **back to the caller** (function or variable).
