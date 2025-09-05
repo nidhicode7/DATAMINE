@@ -5,3 +5,4 @@ class TernaryExample {
         System.out.println(result);
     }
 }
+
